@@ -8,3 +8,4 @@ API REST WiTH PYTHON FLASK MYSQL
 - STEP 6.- create a new folder in the project example src
 - STEP 7.- create a new file in the folder example src/app.py
 - STEP 8.- run the project example python app.py
+- STEP 9.- create file requirements.txt
