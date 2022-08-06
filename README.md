@@ -12,3 +12,4 @@ API REST WiTH PYTHON FLASK MYSQL
 - STEP 10.- install requirement.tx  example pip install requirements.txt
 
 if do you need to install dependencia using file requirements.txt
+pip install -r requirements.txt
